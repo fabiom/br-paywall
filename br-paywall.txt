@@ -18,5 +18,8 @@
 ! Gazeta do Povo
 ||www.netdeal.com.br^$domain=gazetadopovo.com.br
 
+! Jornal do Comércio
+||www.jornaldocomercio.com/src/inove/paywall.php$1p
+
 ! Vários (via tinypass)
 ||experience.tinypass.com^
