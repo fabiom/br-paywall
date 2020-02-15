@@ -1,5 +1,5 @@
 ! Title: br-paywall
-! Version: 3
+! Version: 4
 ! Last updated: 15-02-2020
 ! Homepage: https://github.com/fabiom/br-paywall/
 ! Licence: MIT
@@ -8,7 +8,12 @@
 ! Folha
 ||static.folha.uol.com.br/paywall/*$1p
 ||paywall.folha.uol.com.br^$1p
+
 ! Estadão
 ||acesso.estadao.com.br/paywall/*$1p
+
+! O Globo
+||static.infoglobo.com.br/paywall/*
+
 ! Vários (via tinypass)
 ||experience.tinypass.com^
