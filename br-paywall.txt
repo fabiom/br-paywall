@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/fabiom/br-paywall/
 ! Licence: MIT
 ! 
-! -----------------------General advert blocking filters-----------------------!
 ! Folha
 ||static.folha.uol.com.br/paywall/*$1p
 ||paywall.folha.uol.com.br^$1p
