@@ -5,4 +5,4 @@
 ! Licence: MIT
 ! 
 ! -----------------------General advert blocking filters-----------------------!
-*.paywall.folha.uol.com.br
+||uol.com.br^*$script,domain=paywall.folha.uol.com.br
