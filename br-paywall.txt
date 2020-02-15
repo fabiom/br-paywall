@@ -20,5 +20,9 @@
 ! Jornal do Comércio
 ||www.jornaldocomercio.com/src/inove/paywall.php$1p
 
+! O Povo
+||fivewall.com.br^$domain=opovo.com.br
+||direct.opovo.com.br/login/pages/count-unlogged$xhr,1p
+
 ! Vários (via tinypass)
 ||experience.tinypass.com^
