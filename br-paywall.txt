@@ -1,8 +1,10 @@
-[Adblock Plus 2.0]
-! Version: 1
 ! Title: br-paywall
+! Version: 2
+! Last updated: 15-02-2020
 ! Homepage: https://github.com/fabiom/br-paywall/
 ! Licence: MIT
 ! 
 ! -----------------------General advert blocking filters-----------------------!
-||uol.com.br^*$script,domain=paywall.folha.uol.com.br
+! Folha
+||static.folha.uol.com.br/paywall/*$1p
+||paywall.folha.uol.com.br^$1p
