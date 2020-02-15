@@ -15,5 +15,8 @@
 ! O Globo
 ||static.infoglobo.com.br/paywall/*
 
+! Gazeta do Povo
+||www.netdeal.com.br^$domain=gazetadopovo.com.br
+
 ! Vários (via tinypass)
 ||experience.tinypass.com^
