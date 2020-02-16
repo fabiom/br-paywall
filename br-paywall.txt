@@ -23,5 +23,8 @@
 ||fivewall.com.br^$domain=opovo.com.br
 ||direct.opovo.com.br/login/pages/count-unlogged$xhr,1p
 
+! GaúchaZH (Zero Hora)
+||api.clicrbs.com.br/paywall-api/*$1p
+
 ! Vários (via tinypass)
 ||experience.tinypass.com^
