@@ -27,7 +27,7 @@
 ||api.clicrbs.com.br/paywall-api/*$1p
 
 ! Estado de Minas
-||js.em.com.br/em/$script,1p
+||js.em.com.br/em/*/internal$script,1p
 
 ! Vários (via tinypass)
 ||experience.tinypass.com^
