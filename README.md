@@ -13,3 +13,4 @@ Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/
 - Jornal do Comércio
 - O Povo
 - GaúchaZH
+- Folha de Londrina
