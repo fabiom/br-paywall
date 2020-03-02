@@ -29,5 +29,8 @@
 ! Estado de Minas
 ||js.em.com.br/em/*/internal$script,1p
 
+! Folha de Londrina
+||www.netdeal.com.br^$domain=folhadelondrina.com.br
+
 ! Vários (via tinypass)
 ||experience.tinypass.com^
