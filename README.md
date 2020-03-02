@@ -9,6 +9,7 @@ Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/
 - Estadão
 - O Globo
 - Veja
+- Exame
 - Gazeta do Povo
 - Jornal do Comércio
 - O Povo
