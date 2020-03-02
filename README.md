@@ -1,4 +1,15 @@
 # br-paywall
 Lista de filtros para bloquear paywall de notícias em sites brasileiros e internacionais.
 
-- Endereço: ![https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt](https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt)
+Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt](https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt)
+
+## Sites suportados:
+
+- Folha de São Paulo
+- Estadão
+- O Globo
+- Veja
+- Gazeta do Povo
+- Jornal do Comércio
+- O Povo
+- GaúchaZH
