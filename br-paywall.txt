@@ -35,5 +35,5 @@
 ! Vários (via tinypass)
 ||experience.tinypass.com^
 
-! NSC Total (https://www.nsctotal.com.br)
+! NSC Total
 ||paywall.nsctotal.com.br^$1p
