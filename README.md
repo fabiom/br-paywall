@@ -15,3 +15,4 @@ Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/
 - O Povo
 - GaúchaZH
 - Folha de Londrina
+- NSC Total (https://www.nsctotal.com.br)
