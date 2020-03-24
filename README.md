@@ -1,5 +1,5 @@
 # br-paywall
-Lista de filtros para bloquear paywall de notícias em sites brasileiros e internacionais.
+Lista de filtros para ler sites de notícias sem ser assinante. Ela funciona através do bloqueio de elmentos da página que restringem o acesso às notícias, com o auxílio de bloqueadores de conteúdo como o [uBlock Origin](https://github.com/gorhill/uBlock).
 
 Link da lista: ![https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt](https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt)
 
