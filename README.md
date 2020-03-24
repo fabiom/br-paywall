@@ -16,3 +16,4 @@ Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/
 - GaúchaZH (https://gauchazh.clicrbs.com.br/)
 - Folha de Londrina (https://www.folhadelondrina.com.br/)
 - NSC Total (https://www.nsctotal.com.br)
+- Jornal Correio (https://www.correio24horas.com.br/)
