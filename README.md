@@ -3,7 +3,7 @@ Lista de filtros para bloquear paywall de notícias em sites brasileiros e inter
 
 Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt](https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt)
 
-## Sites suportados:
+## Sites suportados
 
 - Folha de São Paulo (https://www.folha.uol.com.br/)
 - Estadão (https://www.estadao.com.br/)
@@ -17,3 +17,12 @@ Endereço para adicionar: ![https://raw.githubusercontent.com/fabiom/br-paywall/
 - Folha de Londrina (https://www.folhadelondrina.com.br/)
 - NSC Total (https://www.nsctotal.com.br)
 - Jornal Correio (https://www.correio24horas.com.br/)
+
+## Como usar
+
+1. Instale a extensão uBlock Origin ([Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) / [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR))
+2. Abra Painel > Listas de Filtros
+3. Desca até lá embaixo e clique em __Importar__
+4. Cole o endereço `https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt`
+5. Clique no botão amarelo __Aplicar alterações__
+Pronto!
