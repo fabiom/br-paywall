@@ -6,11 +6,11 @@ Link da lista: ![https://raw.githubusercontent.com/fabiom/br-paywall/master/br-p
 ## Como usar
 
 1. Instale a extensão uBlock Origin ([Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) / [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR))
-2. Abra Painel > Listas de Filtros
-3. Desca até lá embaixo e clique em __Importar__
-4. Cole o endereço `https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt`
-5. Clique no botão amarelo __Aplicar alterações__
-Pronto!
+2. Clique no ícone do Ublock Origin na barra do navegador e no botão __Abrir Painel__
+3. Clique na aba __Listas de Filtros__
+4. Desca até lá embaixo e clique em __Importar__
+5. Cole o endereço `https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt`
+6. Clique no botão amarelo __Aplicar alterações__. Pronto!
 
 ## Sites suportados
 
