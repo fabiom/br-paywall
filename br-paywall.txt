@@ -31,8 +31,8 @@
 ! Folha de Londrina
 ||www.netdeal.com.br^$domain=folhadelondrina.com.br
 
-! Vários (via tinypass)
-||experience.tinypass.com^
+! Abril
+||experience.tinypass.com^$domain=abril.com.br
 
 ! NSC Total
 ||paywall.nsctotal.com.br^$1p
