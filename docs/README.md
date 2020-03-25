@@ -5,9 +5,11 @@ Esta é uma lista de filtros para ler sites de notícias sem ser assinante. Ela 
 1. Instale a extensão __uBlock Origin__ ([Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) / [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR) / [Opera](https://addons.opera.com/pt-br/extensions/details/ublock/) / [Edge](https://www.microsoft.com/pt-br/p/ublock-origin/9nblggh444l4)) ou outro bloqueador de conteúdos de sua escolha.
 2. Adicione a lista clicando [aqui!](abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt&amp;title=br-paywall)
 
-__Android:__ É necessário um navegador que suporte extensões, como o [Firefox para Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=pt_BR). O Chrome para Android não suporta extensões.
+__Android:__
+É necessário um navegador que suporte extensões, como o [Firefox para Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=pt_BR). O Chrome para Android não suporta extensões.
 
-__Obs:__ Outros bloqueadores como Adblock Plus ou Adblock também funcionam; no entanto o uBlock Origin é altamente recomendado por ser leve, eficiente, sem fins lucrativos, desenvolvido pela comunidade e não possuir ["propagandas aceitáveis"](https://www.theverge.com/2016/9/13/12890050/adblock-plus-now-sells-ads).
+__Obs:__
+Outros bloqueadores como Adblock Plus ou Adblock também funcionam; no entanto o uBlock Origin é altamente recomendado por ser leve, eficiente, sem fins lucrativos, desenvolvido pela comunidade e não possuir ["propagandas aceitáveis"](https://www.theverge.com/2016/9/13/12890050/adblock-plus-now-sells-ads).
 
 ## Sites suportados
 
