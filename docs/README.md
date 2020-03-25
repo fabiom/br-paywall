@@ -27,3 +27,4 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - [Folha de Londrina](https://www.folhadelondrina.com.br/)
 - [NSC Total](https://www.nsctotal.com.br)
 - [Jornal Correio](https://www.correio24horas.com.br/)
+- [BR Político](https://brpolitico.com.br/)
