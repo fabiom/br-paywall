@@ -1,5 +1,5 @@
 ! Title: br-paywall
-! Homepage: https://github.com/fabiom/br-paywall/
+! Homepage: https://fabiom.github.io/br-paywall/
 ! Licence: MIT
 ! 
 ! Folha
