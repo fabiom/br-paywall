@@ -1,4 +1,4 @@
-<a style="display: block; position: absolute; z-index: 10; padding: 10px 50px 10px 10px; color: #fff; background: #228B22; font-weight: 700; box-shadow: 0 0 10px rgba(0,0,0,0.5); border-bottom-left-radius: 2px; border-bottom-right-radius: 2px;" href="abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt&amp;title=br-paywall}}">Adicionar lista</a>
+<a style="display: block; padding: 10px 50px 10px 10px; color: #fff; background: #228B22; font-weight: 700; box-shadow: 0 0 10px rgba(0,0,0,0.5); border-bottom-left-radius: 2px; border-bottom-right-radius: 2px;" href="abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt&amp;title=br-paywall}}">Adicionar lista</a>
 
 Lista de filtros para ler sites de notícias sem ser assinante. Ela funciona através do bloqueio de elmentos da página que restringem o acesso às notícias, com o auxílio de bloqueadores de conteúdo como o [uBlock Origin](https://github.com/gorhill/uBlock).
 
