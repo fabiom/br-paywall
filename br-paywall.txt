@@ -1,5 +1,4 @@
 ! Title: br-paywall
-! Last updated: 15-02-2020
 ! Homepage: https://github.com/fabiom/br-paywall/
 ! Licence: MIT
 ! 
