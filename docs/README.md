@@ -18,12 +18,8 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - [Folha de São Paulo](https://www.folha.uol.com.br/)
 - [Estadão](https://www.estadao.com.br/)
 - [O Globo](https://oglobo.globo.com/)
-- Todos os sites da Abril:
-  - [Veja](https://veja.abril.com.br/)
-  - [Exame](https://exame.abril.com.br/)
-  - [Superinteressante](https://super.abril.com.br/)
-  - [Quatro Rodas](https://quatrorodas.abril.com.br/)
-  - entre outros
+- [Veja](https://veja.abril.com.br/)
+- [Exame](https://exame.abril.com.br/)
 - [Gazeta do Povo](https://www.gazetadopovo.com.br/)
 - [Jornal do Comércio](https://www.jornaldocomercio.com/)
 - [O Povo](https://www.opovo.com.br/)
@@ -32,3 +28,6 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - [NSC Total](https://www.nsctotal.com.br)
 - [Jornal Correio](https://www.correio24horas.com.br/)
 - [BR Político](https://brpolitico.com.br/)
+- [Superinteressante](https://super.abril.com.br/)
+- [Quatro Rodas](https://quatrorodas.abril.com.br/)
+- [Jornal VS](https://www.jornalvs.com.br/)
