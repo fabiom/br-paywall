@@ -2,12 +2,12 @@
 
 Lista de filtros para ler sites de notícias sem ser assinante. Ela funciona através do bloqueio de elmentos da página que restringem o acesso às notícias, com o auxílio de bloqueadores de conteúdo como o [uBlock Origin](https://github.com/gorhill/uBlock).
 
-[Adicionar lista](abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt)
+[Adicionar lista](abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt&amp;title=br-paywall)
 
 ## Como usar
 
 1. Instale a extensão uBlock Origin ([Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) / [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR))
-2. Adicione a lista clicando [aqui!](abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt)
+2. Adicione a lista clicando [aqui!](abp:subscribe?location=https://raw.githubusercontent.com/fabiom/br-paywall/master/br-paywall.txt&amp;title=br-paywall)
 
 ## Sites suportados
 
