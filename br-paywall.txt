@@ -40,3 +40,6 @@
 ! Jornal Correio
 ||correio-static.cworks.cloud/vendor/bower_components/paywall.js/*$script,domain=correio24horas.com.br
 ||news.google.com/swg/*$script,domain=correio24horas.com.br
+
+! Jornal VS
+||fivewall.com.br^$script,domain=jornalvs.com.br
