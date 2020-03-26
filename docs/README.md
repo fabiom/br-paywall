@@ -32,6 +32,6 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - [Quatro Rodas](https://quatrorodas.abril.com.br/)
 - [Jornal VS](https://www.jornalvs.com.br/)
 
-### Programas semelhantes
+## Programas semelhantes
 
 - [Burlesco](https://github.com/burlesco/burlesco)
