@@ -34,4 +34,4 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 
 ## Programas semelhantes
 
-- [Burlesco](https://github.com/burlesco/burlesco)
+- [Burlesco](https://burles.co/)
