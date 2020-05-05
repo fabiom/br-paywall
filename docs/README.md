@@ -1,5 +1,7 @@
 Esta é uma lista de filtros para ler sites de notícias sem ser assinante. Ela funciona através do bloqueio de elmentos da página que restringem o acesso às notícias, com o auxílio de bloqueadores de conteúdo como o [uBlock Origin](https://github.com/gorhill/uBlock) ou o Adblock Plus.
 
+__Nota:__ A imprensa independente é extremamente importante para uma democracia funcional. Se puder, faça uma assinatura aos meios jornalísticos que você mais lê.
+
 ## Como usar
 
 1. Instale a extensão __uBlock Origin__ ([Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) / [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR) / [Opera](https://addons.opera.com/pt-br/extensions/details/ublock/) / [Edge](https://www.microsoft.com/pt-br/p/ublock-origin/9nblggh444l4)) ou outro bloqueador de conteúdos de sua escolha.
