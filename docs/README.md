@@ -17,22 +17,22 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 
 ## Sites suportados
 
-- [Folha de São Paulo](https://www.folha.uol.com.br/)
-- [Estadão](https://www.estadao.com.br/)
-- [O Globo](https://oglobo.globo.com/)
-- [Veja](https://veja.abril.com.br/)
-- [Exame](https://exame.abril.com.br/)
-- [Gazeta do Povo](https://www.gazetadopovo.com.br/)
-- [Jornal do Comércio](https://www.jornaldocomercio.com/)
-- [O Povo](https://www.opovo.com.br/)
-- [GaúchaZH](https://gauchazh.clicrbs.com.br/)
-- [Folha de Londrina](https://www.folhadelondrina.com.br/)
-- [NSC Total](https://www.nsctotal.com.br)
-- [Jornal Correio](https://www.correio24horas.com.br/)
-- [BR Político](https://brpolitico.com.br/)
-- [Superinteressante](https://super.abril.com.br/)
-- [Quatro Rodas](https://quatrorodas.abril.com.br/)
-- [Jornal VS](https://www.jornalvs.com.br/)
+- Folha de São Paulo
+- Estadão
+- O Globo
+- Veja
+- Exame
+- Jornal do Comércio
+- O Povo
+- GaúchaZH
+- Folha de Londrina
+- NSC Total
+- Gazeta do Povo
+- Jornal Correio
+- BR Político
+- Superinteressante
+- Quatro Rodas
+- Jornal VS
 
 ## Programas semelhantes
 
