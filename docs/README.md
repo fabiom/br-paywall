@@ -33,6 +33,7 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - Superinteressante
 - Quatro Rodas
 - Jornal VS
+- Medscape
 
 ## Programas semelhantes
 
