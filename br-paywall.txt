@@ -46,3 +46,6 @@
 
 ! Jornal VS
 ||fivewall.com.br^$script,domain=jornalvs.com.br
+
+! Medscape
+||img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js$script,domain=medscape.com
