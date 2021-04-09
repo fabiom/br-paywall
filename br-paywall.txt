@@ -1,6 +1,6 @@
 ! Title: br-paywall
-! Updated: 5 Mai 2020
-! Homepage: https://fabiom.github.io/br-paywall/
+! Updated: 8 de Abril de 2021
+! Homepage: https://fabiom.xyz/br-paywall/
 ! Licence: MIT
 ! 
 ! __Nota:__ A imprensa independente é extremamente importante para uma democracia funcional. Se puder, faça uma assinatura aos meios jornalísticos que você mais lê.
