@@ -1,5 +1,5 @@
 ! Title: br-paywall
-! Updated: 8 de Abril de 2021
+! Updated: 27 de Junho de 2021
 ! Homepage: https://fabiom.xyz/br-paywall/
 ! Licence: MIT
 ! 
