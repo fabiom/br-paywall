@@ -38,6 +38,7 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - Quatro Rodas
 - Jornal VS
 - Medscape
+- New York Times
 
 ## Programas semelhantes
 
