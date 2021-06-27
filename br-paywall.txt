@@ -49,3 +49,6 @@
 
 ! Medscape
 ||img.medscapestatic.com/medscape-core/common/js/global/medscape-script/all-scripts-no-defer.js$script,domain=medscape.com
+
+! New York Times
+||meter-svc.nytimes.com^$xhr,1p
