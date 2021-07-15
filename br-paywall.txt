@@ -1,5 +1,5 @@
 ! Title: br-paywall
-! Updated: 27 de Junho de 2021
+! Updated: 15 de Julho de 2021
 ! Homepage: https://fabiom.xyz/br-paywall/
 ! Licence: MIT
 ! 
@@ -52,3 +52,6 @@
 
 ! New York Times
 ||meter-svc.nytimes.com^$xhr,1p
+
+! Jornal NH
+||fivewall.com.br^$domain=jornalnh.com.br
