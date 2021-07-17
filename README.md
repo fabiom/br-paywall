@@ -47,3 +47,4 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 ## Programas semelhantes
 
 - [Burlesco](https://burles.co/)
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
