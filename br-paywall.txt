@@ -1,5 +1,5 @@
 ! Title: br-paywall
-! Updated: 16 de Julho de 2021
+! Updated: 20 de setembro de 2021
 ! Homepage: https://fabiom.xyz/br-paywall/
 ! Licence: MIT
 ! 
@@ -17,6 +17,7 @@
 
 ! Gazeta do Povo
 ||www.netdeal.com.br^$domain=gazetadopovo.com.br
+||experience.tinypass.com^$domain=gazetadopovo.com.br
 
 ! Jornal do Comércio
 ||www.jornaldocomercio.com/src/inove/paywall.php$1p
