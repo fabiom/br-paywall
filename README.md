@@ -42,7 +42,6 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - Jornal NH
 - Medscape
 - New York Times
-- Crusoé
 
 ## Programas semelhantes
 
