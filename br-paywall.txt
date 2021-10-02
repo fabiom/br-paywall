@@ -56,6 +56,3 @@
 
 ! Jornal NH
 ||fivewall.com.br^$domain=jornalnh.com.br
-
-! Crusoé (pode prejudicar funcionalidade)
-||crusoe.com.br^$inline-script,1p
