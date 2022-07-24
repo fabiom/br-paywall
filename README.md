@@ -1,7 +1,6 @@
 # br-paywall
 
-### **br-paywall:** [Inscrever-se](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiom%2Fbr-paywall%2Fmaster%2Fbr-paywall.txt&amp;title=br-paywall)
-### **br-sackfiller:** [Inscrever-se](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiom%2Fbr-paywall%2Fmaster%2Fbr-sackfiller.txt&amp;title=br-sackfiller)
+### [Inscrever-se](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiom%2Fbr-paywall%2Fmaster%2Fbr-paywall.txt&amp;title=br-paywall)
 
 Esta é uma lista de filtros para ler sites de notícias sem ser assinante. Ela funciona através do bloqueio de elmentos da página que restringem o acesso às notícias, com o auxílio de bloqueadores de conteúdo como o [uBlock Origin](https://github.com/gorhill/uBlock) ou o Adblock Plus.
 
@@ -48,3 +47,9 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 
 - [Burlesco](https://burles.co/)
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+
+# Extra: lista br-sackfiller
+
+Adicionalmente, a lista br-sackfiller remove algumas encheções de saco de sites de notícia, como por exemplo barras que insistem para você tornar-se assinante.
+
+### [Inscrever-se em br-sackfiller](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiom%2Fbr-paywall%2Fmaster%2Fbr-sackfiller.txt&amp;title=br-sackfiller)
