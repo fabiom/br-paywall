@@ -7,5 +7,7 @@
 !
 ! Folha
 !  - Remove barras insistindo para você se tornar assinante, que atrapalham a leitura.
+!  - Remove barra insistindo para baixar o app.
 folha.uol.com.br###top-signup-close-bf
 folha.uol.com.br###c-top-signup
+folha.uol.com.br##.c-notification-link-app
