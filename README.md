@@ -50,6 +50,6 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 
 # Extra: lista br-sackfiller
 
-Adicionalmente, a lista br-sackfiller remove algumas encheções de saco de sites de notícia, como por exemplo barras que insistem para você tornar-se assinante.
+Adicionalmente, a lista br-sackfiller remove algumas encheções de saco em sites de notícia, como por exemplo barras que insistem para você tornar-se assinante.
 
 ### [Inscrever-se em br-sackfiller](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffabiom%2Fbr-paywall%2Fmaster%2Fbr-sackfiller.txt&amp;title=br-sackfiller)
