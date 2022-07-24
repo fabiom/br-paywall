@@ -1,9 +1,9 @@
-! Title: br-sack-filler
+! Title: br-sackfiller
 ! Updated: 40 de julho de 2022
 ! Homepage: https://github.com/fabiom/br-paywall
 ! Licence: MIT
 ! 
-! Lista br-sack-filler. Remova encheções de saco em sites de notícia.
+! Lista br-sackfiller. Remova encheções de saco em sites de notícia.
 !
 ! Folha
 !  - Remove barras insistindo para você se tornar assinante, que atrapalham a leitura.
