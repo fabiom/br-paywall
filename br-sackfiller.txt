@@ -1,5 +1,5 @@
 ! Title: br-sackfiller
-! Updated: 40 de julho de 2022
+! Updated: 24 de julho de 2022
 ! Homepage: https://github.com/fabiom/br-paywall
 ! Licence: MIT
 ! 
