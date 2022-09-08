@@ -1,6 +1,6 @@
 ! Title: br-paywall
-! Updated: 20 de setembro de 2021
-! Homepage: https://fabiom.xyz/br-paywall/
+! Updated: 8 de setembro de 2022
+! Homepage: https://github.com/fabiom/br-paywall/
 ! Licence: MIT
 ! 
 ! __Nota:__ A imprensa independente é extremamente importante para uma democracia funcional. Se puder, faça uma assinatura aos meios jornalísticos que você mais lê.
@@ -56,3 +56,6 @@
 
 ! Jornal NH
 ||fivewall.com.br^$domain=jornalnh.com.br
+
+! The Economist
+||tinypass.com^$domain=economist.com
