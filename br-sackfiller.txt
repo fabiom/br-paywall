@@ -11,3 +11,4 @@
 folha.uol.com.br###top-signup-close-bf
 folha.uol.com.br###c-top-signup
 folha.uol.com.br##.c-notification-link-app
+folha.uol.com.br##.c-push-notification
