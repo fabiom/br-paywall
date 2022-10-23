@@ -43,6 +43,7 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - Medscape
 - New York Times
 - The Economist
+- New Statesman
 
 ## Programas semelhantes
 
