@@ -38,6 +38,9 @@
 ! Abril
 ||experience.tinypass.com^$domain=abril.com.br
 
+! Veja
+||*.cloudfunctions.net^$xhr,domain=veja.abril.com.br
+
 ! NSC Total
 ||paywall.nsctotal.com.br^$1p
 
