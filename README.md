@@ -44,6 +44,7 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - New York Times
 - The Economist
 - New Statesman
+- O Povo
 
 ## Programas semelhantes
 
