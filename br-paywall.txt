@@ -65,3 +65,6 @@
 
 ! New Statesman
 ||ev.newstatesman.com/acd/api/*$xhr,1p
+
+! O Povo Mais
+||mais.opovo.com.br/auth$xhr
