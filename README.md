@@ -4,7 +4,7 @@
 
 Esta é uma lista de filtros para ler sites de notícias sem ser assinante. Ela funciona através do bloqueio de elmentos da página que restringem o acesso às notícias, com o auxílio de bloqueadores de conteúdo como o [uBlock Origin](https://github.com/gorhill/uBlock) ou o Adblock Plus.
 
-> __Nota:__ A imprensa independente é extremamente importante para uma democracia funcional. Se puder, faça uma assinatura aos meios jornalísticos que você mais lê.
+> __Nota:__ Uma imprensa independente é extremamente importante para a democracia. Se puder, faça uma assinatura aos meios jornalísticos que você mais lê.
 
 ## Como usar
 
