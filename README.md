@@ -48,6 +48,7 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 
 ## Programas semelhantes
 
+- Lista [Bypass Paywalls Clean filters](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters)
 - [Burlesco](https://burles.co/)
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
