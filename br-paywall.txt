@@ -71,6 +71,3 @@
 
 ! O Povo Mais
 ||mais.opovo.com.br/auth$xhr
-
-! Washington Post
-||subscribe.washingtonpost.com^
