@@ -36,7 +36,7 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - Gazeta do Povo
 - Jornal Correio
 - BR Político
-- Superinteressante
+- Super Interessante
 - Quatro Rodas
 - Jornal VS
 - Jornal NH
@@ -51,6 +51,10 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 - Lista [Bypass Paywalls Clean filters](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters)
 - [Burlesco](https://burles.co/)
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+
+## Isso não é ilegal?
+
+Não. Os paywalls que são bloqueados por este método funcionam da seguinte forma: os sites enviam todas as notícias completas para todas as pessoas, e também enviam um programa que bloqueia as notícias para quem não é assinante. Esta ferramenta apenas impede o download desse programa bloqueador de notícias (que ninguém pode ser obrigado a baixar). Novamente, a notícia completa já é enviada pelo site de notícias para todas as pessoas.
 
 # Extra: lista br-sackfiller
 
