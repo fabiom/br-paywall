@@ -56,6 +56,8 @@ __Observação:__ outros bloqueadores como Adblock Plus ou Adblock também funci
 
 Não. Os paywalls que são bloqueados por este método funcionam da seguinte forma: os sites enviam todas as notícias completas para todas as pessoas, e também enviam um programa que bloqueia as notícias para quem não é assinante. Esta ferramenta apenas impede o download desse programa bloqueador de notícias (que ninguém pode ser obrigado a baixar). Novamente, a notícia completa já é enviada pelo site de notícias para todas as pessoas.
 
+Me é estranho que esse método de bloqueio de notícias seja usado por tantos sites grandes, já que é tão fácil de burlar. O mesmo efeito da lista br-paywall pode ser obtido parando o carregamento da página no momento correto. Sites que utilizam um paywall mais sofisticado, que só envia a notícia completa para quem é assinante, como o LeMonde Diplomatique Brasil, não podem ser bloqueados pelo br-paywall.
+
 # Extra: lista br-sackfiller
 
 Adicionalmente, a lista br-sackfiller remove algumas encheções de saco em sites de notícia, como por exemplo barras que insistem para você tornar-se assinante.
