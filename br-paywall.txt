@@ -38,6 +38,9 @@
 ! Abril
 ||experience.tinypass.com^$domain=abril.com.br
 
+! Super Interessante
+||super.abril.com.br/wp-content/plugins/abril-plugins/abril-paywall/*
+
 ! Veja
 ||*.cloudfunctions.net^$xhr,domain=veja.abril.com.br
 
