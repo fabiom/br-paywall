@@ -11,6 +11,7 @@
 
 ! Estadão e BR Político
 ||acesso.estadao.com.br/paywall/*
+||assets.estadao.com.br/*
 
 ! O Globo
 ||static.infoglobo.com.br/paywall/*
